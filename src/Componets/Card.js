@@ -53,26 +53,3 @@ const Card = ({ ticket }) => {
 };
 
 export default Card;
-// import React from "react";
-
-// const Card = ({ ticket }) => {
-//   const { price, carrier, segments, stops } = ticket;
-
-//   return (
-//     <div className="card col shadow">
-//       <div className="row centered card_c">
-//         <span>{price}</span>
-//         <img src={`http://pics.avs.io/99/36/${carrier}.png`} alt="carrier" />
-//       </div>
-//       <span>Перевозчик {carrier}</span>
-//       <span>Дата {segments[0].date}</span>
-//       <span>Место назначения {segments[0].destination}</span>
-//       <span>Продолжительность {segments[0].duration}</span>
-//       <span>Источник {segments[0].origin}</span>
-//       {/* <span>{stops[0]}</span>
-//       <span>{stops[1]}</span> */}
-//     </div>
-//   );
-// };
-
-// export default Card;
