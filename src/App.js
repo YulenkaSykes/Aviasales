@@ -77,7 +77,7 @@ function App() {
         <img src="./Logo.png" alt="" className=" logo" />
         <div className="row wrapper">
           <SideBar />
-          <div className="col card-wrapper">
+          <div className="col centered card-wrapper">
             <NavBar />
             {data.filters ? (
               data.filters.map((e) => <Card ticket={e} />)

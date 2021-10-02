@@ -19,9 +19,10 @@ body{
 }
 .btn{
     margin: 15px;
+    width: 90%;
 }
 .button{
-    width: 82.2%;
+    width: 90%;
     height: 38px;
 }
 .button button{
@@ -64,7 +65,7 @@ input[type='checkbox']{
     height: 30px;
 }
 .sideBar {
-    width: 35%;
+    width: 25%;
     height: 23%;
     margin: 15px;
 }
@@ -84,11 +85,11 @@ input[type='checkbox']{
     box-sizing: 1;
 }
 .wrapper {
-    width: 60%;
+    width: 55%;
+    justify-content: space-between;
 }
 .card-wrapper {
-    width: 100%;
-    margin-left: 70px;
+    width: 70%;
 }
 .card{
     width:  80%;
@@ -106,7 +107,6 @@ input[type='checkbox']{
 .card .segment-wrapper{
   width: 90%;
   justify-content: space-between;
-  margin: 5px;
 }
 .grey {
     color: #a0b0b9;
@@ -128,4 +128,12 @@ input[type='checkbox']{
     transition: 0.3s all;
     margin: 10px;
     cursor: pointer;
+  }
+  @media screen and (max-width: 1000px){
+      .wrapper{
+          width: 90%;
+      }
+      .sideBar{
+          width: 30%;
+      }
   }

@@ -6,7 +6,7 @@ const NavBar = () => {
   const [active, setActive] = useState("cheap");
 
   return (
-    <div className="row btn">
+    <div className="row centered btn">
       <div className="button row">
         <button
           className={`${active === "cheap" && "active"}`}
