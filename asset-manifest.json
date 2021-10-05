@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/gifs/static/css/main.56f0d988.chunk.css",
-    "main.js": "/gifs/static/js/main.6a25ed21.chunk.js",
-    "main.js.map": "/gifs/static/js/main.6a25ed21.chunk.js.map",
-    "runtime-main.js": "/gifs/static/js/runtime-main.7643e48b.js",
-    "runtime-main.js.map": "/gifs/static/js/runtime-main.7643e48b.js.map",
-    "static/js/2.2e829544.chunk.js": "/gifs/static/js/2.2e829544.chunk.js",
-    "static/js/2.2e829544.chunk.js.map": "/gifs/static/js/2.2e829544.chunk.js.map",
-    "static/js/3.0a26e604.chunk.js": "/gifs/static/js/3.0a26e604.chunk.js",
-    "static/js/3.0a26e604.chunk.js.map": "/gifs/static/js/3.0a26e604.chunk.js.map",
-    "index.html": "/gifs/index.html",
-    "static/css/main.56f0d988.chunk.css.map": "/gifs/static/css/main.56f0d988.chunk.css.map",
-    "static/js/2.2e829544.chunk.js.LICENSE.txt": "/gifs/static/js/2.2e829544.chunk.js.LICENSE.txt"
+    "main.css": "/Aviasales/static/css/main.56f0d988.chunk.css",
+    "main.js": "/Aviasales/static/js/main.6a25ed21.chunk.js",
+    "main.js.map": "/Aviasales/static/js/main.6a25ed21.chunk.js.map",
+    "runtime-main.js": "/Aviasales/static/js/runtime-main.a36f430d.js",
+    "runtime-main.js.map": "/Aviasales/static/js/runtime-main.a36f430d.js.map",
+    "static/js/2.2e829544.chunk.js": "/Aviasales/static/js/2.2e829544.chunk.js",
+    "static/js/2.2e829544.chunk.js.map": "/Aviasales/static/js/2.2e829544.chunk.js.map",
+    "static/js/3.0a26e604.chunk.js": "/Aviasales/static/js/3.0a26e604.chunk.js",
+    "static/js/3.0a26e604.chunk.js.map": "/Aviasales/static/js/3.0a26e604.chunk.js.map",
+    "index.html": "/Aviasales/index.html",
+    "static/css/main.56f0d988.chunk.css.map": "/Aviasales/static/css/main.56f0d988.chunk.css.map",
+    "static/js/2.2e829544.chunk.js.LICENSE.txt": "/Aviasales/static/js/2.2e829544.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7643e48b.js",
+    "static/js/runtime-main.a36f430d.js",
     "static/js/2.2e829544.chunk.js",
     "static/css/main.56f0d988.chunk.css",
     "static/js/main.6a25ed21.chunk.js"
